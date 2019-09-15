@@ -1,5 +1,3 @@
-# This is a readme
+# this is a read me
 
-This is where the description of the code will be for our project.
-
-Step 1: Read the readme.
+This is where you find description of projects
